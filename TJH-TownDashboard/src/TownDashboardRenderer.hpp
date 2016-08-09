@@ -9,7 +9,6 @@
 #pragma once
 #include <stdio.h>
 #include "ofMain.h"
-#include "ofxFilterLibrary.h"
 #include "ofxGlow.h"
 #include "ofxGaussianBlur.h"
 #include "MSAInterpolator.h"

@@ -10,7 +10,7 @@ void ofApp::setup(){
     _rowIndex = 1; // this is not zero as that is the titles
     townName = dataCSV.getRow(_rowIndex).getString(3);
     
-    _bgImage = ofImage("images/bgNew.png");
+//    _bgImage = ofImage("images/bgNew.png");
     _fgImage = ofImage("images/fgNew.png");
     saveReq = false;
     _saveQueueEnabled = true;

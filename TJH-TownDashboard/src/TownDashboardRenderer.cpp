@@ -38,7 +38,7 @@ TownDashboardRenderer::TownDashboardRenderer() {
     
     searchingStringImage = searchStringImages[_locale];
     
-    backgroundImage.load("images/bgNew.png");
+//    backgroundImage.load("images/bgNew.png");
     
     glow.allocate(PRINT_DIMENSIONS_WIDTH, PRINT_DIMENSIONS_HEIGHT, GL_RGBA);
     glow.setRadius(15);
@@ -176,7 +176,7 @@ void TownDashboardRenderer::draw()
     
     ofClear(0, 0, 0);
     ofBackground(0, 0, 0);
-    backgroundImage.draw(0, 0);
+//    backgroundImage.draw(0, 0);
     blendImage.draw(0, 0);
     _typeLayerFbo.draw(0, 0);
 
