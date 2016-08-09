@@ -1,6 +1,5 @@
 ofxCsv
 ofxFX
-ofxFilterLibrary
 ofxMSACore
 ofxMSAInterpolator
 ofxSimpleSpline
