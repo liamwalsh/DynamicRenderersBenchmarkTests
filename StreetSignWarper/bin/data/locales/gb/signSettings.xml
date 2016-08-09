@@ -1,0 +1,12 @@
+<signSettings>
+    
+    <cornerSize>
+        <width>56</width>
+        <height>50</height>
+    </cornerSize>
+    
+    <textColor>0x000000</textColor>
+    <textMargin>10</textMargin>
+    <fontSize>30</fontSize><!-- not being used right now -->
+    
+</signSettings>
