@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "370B80C43F7187CC986099C81997FCBE5CFD71B8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C090EEB063306176157FE65A4A917447EDEA92A" : 0,
+    "370B80C43F7187CC986099C81997FCBE5CFD71B8" : 0,
+    "124CCB9B44A9FE82887AA6F64CCD17FE54B342A7" : 0,
+    "2FD5A69EE360795D0E5BEC83F98FCBF703291CA3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D08B603C-77EE-4662-BEA8-5F01A2F94341",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C090EEB063306176157FE65A4A917447EDEA92A" : "..\/..\/..\/addons\/ofxCameraSaveLoad",
+    "370B80C43F7187CC986099C81997FCBE5CFD71B8" : "_DynamicRenderersBenchmarkSpike\/",
+    "124CCB9B44A9FE82887AA6F64CCD17FE54B342A7" : "..\/..\/..\/addons\/ofxCsv",
+    "2FD5A69EE360795D0E5BEC83F98FCBF703291CA3" : "..\/..\/..\/addons\/ofxFilterLibrary"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NameInTheStarsLW_tests",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "nameInTheStarsLW_tests\/NameInTheStarsLW_tests\/NameInTheStarsLW_tests.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/paulvollmer\/ofxCsv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "124CCB9B44A9FE82887AA6F64CCD17FE54B342A7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mfargo\/ofxFilterLibrary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2FD5A69EE360795D0E5BEC83F98FCBF703291CA3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:liamwalsh\/DynamicRenderersBenchmarkTests.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "370B80C43F7187CC986099C81997FCBE5CFD71B8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/roymacdonald\/ofxCameraSaveLoad.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C090EEB063306176157FE65A4A917447EDEA92A"
+    }
+  ]
+}

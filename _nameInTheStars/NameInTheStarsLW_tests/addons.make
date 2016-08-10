@@ -1,0 +1,7 @@
+ofxCameraSaveLoad
+ofxCsv
+ofxFilterLibrary
+ofxGui
+ofxOpenCv
+ofxSimpleSpline
+ofxSvg
